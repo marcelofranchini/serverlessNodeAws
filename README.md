@@ -7,7 +7,7 @@
 -  Sc3
 -  Serverless Application Mode
 -  DynamoDb(nosql)
-## Rota Da APi Getway AWS 
+## Url Da APi Getway AWS - Utilizar o Postaman ou Insomnia
  https://r5i4vc51rc.execute-api.us-east-1.amazonaws.com/Prod/employee
 
 
