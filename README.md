@@ -16,9 +16,10 @@
  https://r5i4vc51rc.execute-api.us-east-1.amazonaws.com/Prod/employee/id
  
  - exemplos para teste(funcionando no navegador):
- -https://r5i4vc51rc.execute-api.us-east-1.amazonaws.com/Prod/employee/1d1a8d3c-8130-40f8-ab08-dadbbc8382a4
- -ids para teste:  514d2a38-e30b-4ff7-8926-b61370f0a421,  d727e857-e69b-468c-990b-18dad9186fc2, f01349b9-f644-4839-b59b-b9f9a0a35feb, 
- f43dba5b-07c2-4ff6-8c62-20fed45c4146, f9329049-01e2-4f65-ba38-9229eed543e5
+ - https://r5i4vc51rc.execute-api.us-east-1.amazonaws.com/Prod/employee/1d1a8d3c-8130-40f8-ab08-dadbbc8382a4
+ - ids para teste:  
+  514d2a38-e30b-4ff7-8926-b61370f0a421,  d727e857-e69b-468c-990b-18dad9186fc2, f01349b9-f644-4839-b59b-b9f9a0a35feb, 
+  f43dba5b-07c2-4ff6-8c62-20fed45c4146, f9329049-01e2-4f65-ba38-9229eed543e5
 
 ## Criar um funcionário 
 - Utlizar o Método Post 
@@ -31,7 +32,7 @@
 	"age": 33
 }
 
-id gerado automátio uuid
+- id gerado automátio uuid
 
 ## Deletar um funcionário 
 - Utlizar o Método Delete
