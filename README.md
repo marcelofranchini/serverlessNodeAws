@@ -6,7 +6,7 @@
 -  Api Gateway
 -  Sc3
 -  Serverless Application Mode
--  
+-  DynamoDb(nosql)
 ## Rota Da APi Getway AWS 
  https://r5i4vc51rc.execute-api.us-east-1.amazonaws.com/Prod/employee
 
